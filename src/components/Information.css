@@ -1,0 +1,15 @@
+.info-container{
+    margin: 2em;
+}
+
+.info-title{
+    margin-bottom: 0.5em;
+    text-align: left;
+    color: whitesmoke;
+}
+
+.info-desc{
+    color: white;
+    text-align: justify;
+    font-size: 15px;
+}

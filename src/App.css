@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.card {
+  color: white;
+  background-color: rgb(47, 47, 47);
+  border-radius: 10px;
+  margin: 12px 100px 12px 990px ;
+}
+
+@media (max-width: 768px){
+  .card{
+    padding: 20px;
+  }
+}

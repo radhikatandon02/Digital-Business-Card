@@ -1,0 +1,25 @@
+.name-container{
+    padding: 0 2em 2em 2em;
+    text-align: center;
+}
+
+.fullname {
+    margin-top: 0.7em;
+    padding: 0 2em;
+    color: white;
+  }
+  
+  .role {
+    font-weight: 400;
+    color: orange;
+    margin-top: 0.3em;
+  }
+  
+  .website {
+    color: black;
+  }
+
+  .websiteLink{
+    text-decoration: none;
+    color: white;
+  }
